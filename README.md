@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellnamikito&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=wellnamikito&theme=dark&hide_border=true)
 
 </div>
 
